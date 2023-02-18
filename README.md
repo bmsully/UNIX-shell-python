@@ -2,7 +2,7 @@
 
 A UNIX shell implemented in python. 
 
-
+Using the original paper by Dennis M. Ritchie and Ken Thompson [here](https://dsf.berkeley.edu/cs262/unix.pdf) to implement. 
 
 ## Usage
 
